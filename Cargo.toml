@@ -1,0 +1,13 @@
+[package]
+name = "rukios"
+version = "0.1.0"
+edition = "2021"
+description = "rukios microkernel: scheduler"
+license = "MIT"
+repository = "https://github.com/LunarVQ/rukios"
+
+[lib]
+name = "rukios_sched"
+path = "src/lib.rs"
+
+[dependencies]
