@@ -1,2 +1,2 @@
 # rukios
-Simple bootloader rn
+redesigned a bit for now.
